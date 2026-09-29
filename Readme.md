@@ -188,16 +188,4 @@ Python 3.8+ recommended.
 | `doodle-darwin` | Natural selection energy |
 | `evolving-doodler` | Exactly what it says |
 
----
 
-## 📝 Suggested Descriptions
-
-- *"Doodle Jump clone with a neuroevolution AI that trains itself using a genetic algorithm and a hand-rolled neural network."*
-- *"150 doodlers compete every generation. Only the fittest genes survive. Built with Pygame + NumPy, zero ML frameworks."*
-- *"Teaching a cartoon frog to jump on platforms using natural selection. It works. Disturbingly well."*
-
----
-
-## 🏷️ Suggested Tags
-
-`python` `pygame` `genetic-algorithm` `neuroevolution` `neural-network` `numpy` `game-ai` `doodle-jump` `machine-learning` `evolutionary-algorithm` `game-development` `reinforcement-learning-free` `no-backprop`

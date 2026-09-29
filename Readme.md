@@ -174,18 +174,3 @@ numpy
 ```
 
 Python 3.8+ recommended.
-
----
-
-## 🏷️ Suggested Repo Names
-
-| Name | Vibe |
-|------|------|
-| `doodle-evolution` | Clean, descriptive, professional |
-| `neuro-doodle` | Short, punchy |
-| `doodle-jump-ai` | SEO-friendly, findable |
-| `jumping-genes` | Clever, biology pun |
-| `doodle-darwin` | Natural selection energy |
-| `evolving-doodler` | Exactly what it says |
-
-
